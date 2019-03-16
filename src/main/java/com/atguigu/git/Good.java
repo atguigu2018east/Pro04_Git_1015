@@ -2,6 +2,5 @@ package com.atguigu.git;
 
 public class Good {
 
-	//Edit by pro05
-	//edit by pro05
+	//咸鱼，我生块叉烧都比生你强！
 }
